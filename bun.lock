@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "slides-2026-05-kcd-melbourne",
+      "name": "slides-2026-10-01-agentic-ai-melbourne",
       "devDependencies": {
         "@slidev/cli": "^52.18.0",
         "@slidev/theme-apple-basic": "^0.25.1",

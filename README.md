@@ -1,6 +1,6 @@
-# Agentic AI Melbourne — September 2026
+# Agentic AI Melbourne — October 2026
 
-Intro and outro MC slides for Agentic AI Melbourne on 2 September 2026, built with [Slidev](https://sli.dev/).
+Intro and outro MC slides for Agentic AI Melbourne on 1 October 2026, built with [Slidev](https://sli.dev/).
 
 ## Requirements
 

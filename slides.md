@@ -1,33 +1,33 @@
 ---
 theme: apple-basic
-title: Agentic AI Melbourne — September 2026
+title: Agentic AI Melbourne — October 2026
 info: |
-  MC slides for Agentic AI Melbourne, 2 September 2026.
+  MC slides for Agentic AI Melbourne, 1 October 2026.
   Licensed under Creative Commons Attribution 4.0 International.
 author: Ryan Djurovich
 colorSchema: light
-exportFilename: agentic-ai-melbourne-september-2026
+exportFilename: agentic-ai-melbourne-october-2026
 transition: slide-left
 mdc: true
 ---
 
 <div class="hero hero-with-image">
-  <div class="eyebrow">Agentic AI Melbourne · September 2026</div>
+  <div class="eyebrow">Agentic AI Melbourne · October 2026</div>
   <h1 style="padding-top: 4rem">G'Day</h1>
   <div class="hero-meta">
-    <span>2 September 2026</span>
-    <span>Vivanti Consulting · Docklands</span>
+    <span>1 October 2026</span>
+    <span>BlueRock · Melbourne</span>
   </div>
 </div>
 
 <div class="hero-art">
-  <img src="/agentic-ai-melbourne-hero.png" alt="AI agents building together beside Melbourne's Docklands" />
+  <img src="/agentic-ai-melbourne-hero.png" alt="Three AI mascots using laptops in Melbourne's CBD" />
 </div>
 
 <!--
 G'day everyone, and welcome to Agentic AI Melbourne.
 
-I'm Ryan Djurovich, one of the AAIF community event organisers here in Melbourne, and I'll be your MC tonight.
+I'm Gajan Kugamoorthy, one of the AAIF community event organisers here in Melbourne, and I'll be your MC tonight.
 
 Thank you for making the time to be here.
 
@@ -257,27 +257,46 @@ Events like this take a surprising amount of work behind the scenes. Please say 
 
 ---
 
-# Thank you, Vivanti
+# Thank you to our sponsors
 
-<div class="sponsor-stage">
-  <img src="/sponsors/vivanti.png" alt="Vivanti" />
-  <p>Our venue host and event sponsor</p>
+<div class="sponsor-grid">
+  <div class="sponsor-group venue-sponsors">
+    <span class="sponsor-label">Venue</span>
+    <div class="sponsor-list">
+      <div class="sponsor-logo"><img src="/sponsors/bluerock.svg" alt="BlueRock" /></div>
+      <div class="sponsor-logo"><img src="/sponsors/ai-dojo.png" alt="AI Dojo" /></div>
+    </div>
+  </div>
+  <div class="sponsor-group hospitality-sponsors">
+    <span class="sponsor-label">Food & drinks</span>
+    <div class="sponsor-list">
+      <div class="sponsor-logo"><img src="/sponsors/openai.svg" alt="OpenAI" /></div>
+      <div class="sponsor-logo"><img src="/sponsors/optimising.svg" alt="Optimising.com.au" /></div>
+      <div class="sponsor-logo"><img src="/sponsors/union-ai.svg" alt="Union.ai" /></div>
+    </div>
+  </div>
 </div>
 
-<div class="handoff">Gajan — tell us about Vivanti.</div>
+<!--
+Tonight would not be possible without the support of our sponsors.
+
+Thank you to BlueRock and AI Dojo for providing tonight's venue.
+
+And thank you to OpenAI, Optimising.com.au, and Union.ai for providing the food and drinks.
+
+Their support gives this community a place to meet, learn, and share what we're building.
+
+One ask for everyone: please be respectful of the venue and clean up after yourselves before you leave.
+-->
+
+---
+class: blank-slide
+---
 
 <!--
-Tonight would not be possible without Vivanti Consulting.
+BLUEROCK SLIDE HERE
 
-They've generously provided this venue, are covering the food an drinks, and supported us in bringing the community together.
-
-Rather than have me speak for them, I'd like to invite Gajan to take one minute to tell us a little about Vivanti and why they're supporting the event.
-
-[HAND TO GAJAN — APPROXIMATELY ONE MINUTE]
-
-Thank you, Gajan — and thank you again to everyone at Vivanti for having us.
-
-One ask for everyone: please be respectful of this venue and clean up after yourselves before you leave.
+TODO: Replace this blank placeholder with BlueRock's supplied slide.
 -->
 
 ---
@@ -286,20 +305,20 @@ One ask for everyone: please be respectful of this venue and clean up after your
 
 <div class="agenda">
   <div class="agenda-item featured">
-    <img class="agenda-speaker" src="/speakers/dan-harper.png" alt="Dan Harper" />
-    <span class="agenda-kind">Main Talk</span><strong>Hosting LLMs in production and failing to scale to 10 users</strong><span>Dan Harper · CTO, AskYourTeam</span>
+    <img class="agenda-speaker" src="/speakers/lifei-zhou.jpeg" alt="Lifei Zhou" />
+    <span class="agenda-kind">Main Talk</span><strong>How to Build Your Own AI Agent with goose</strong><span>Lifei Zhou · Software Engineer, Block</span>
   </div>
   <div class="agenda-item">
-    <img class="agenda-speaker" src="/speakers/thiago-shimada-ramos.png" alt="Thiago Shimada Ramos" />
-    <span class="agenda-kind">Lightning<br />Talk</span><strong>Shifting Down: Agentic Security at Infra Level</strong><span>Thiago Shimada Ramos · Founder, EnclaveAI Studio</span>
+    <img class="agenda-speaker" src="/speakers/jeffrey-aven.png" alt="Jeffrey Aven" />
+    <span class="agenda-kind">Lightning<br />Talk</span><strong>So You Want to Ship an MCP Server?</strong><span>Jeffrey Aven · Founder, StackQL</span>
   </div>
   <div class="agenda-item">
-    <img class="agenda-speaker" src="/organisers/phil-nash.png" alt="Phil Nash" />
-    <span class="agenda-kind">Lightning<br />Talk</span><strong>What you might not know about Stateless MCP</strong><span>Phil Nash · Developer Experience Engineer, Resend</span>
+    <img class="agenda-speaker" src="/speakers/zach-jensz.png" alt="Zach Jensz" />
+    <span class="agenda-kind">Lightning<br />Talk</span><strong>The 1000x Junior Developer</strong><span>Zach Jensz · Software Engineer, Method Recruitment Group</span>
   </div>
   <div class="agenda-item">
-    <img class="agenda-speaker" src="/speakers/james-bannan.png" alt="James Bannan" />
-    <span class="agenda-kind">Lightning<br />Talk</span><strong>From Ideation to Presentation with Markdown, Slidev, & Agents</strong><span>James Bannan · Principal Consultant, Microsoft</span>
+    <img class="agenda-speaker" src="/speakers/chris-rickard.jpeg" alt="Chris Rickard" />
+    <span class="agenda-kind">Lightning<br />Talk</span><strong>Are we at AGI yet?</strong><span>Chris Rickard · Founder, Userdoc</span>
   </div>
 </div>
 
@@ -310,13 +329,13 @@ Here's our line-up for tonight.
 
 The format we're looking at running with these events is to have one main talk, followed by three lightning talks.
 
-Dan will share the very honest story of hosting LLMs in production and failing to scale to ten users.
+Lifei will show us how to build our own AI agent with goose.
 
-Then Thiago will shift agentic security down to the infrastructure level.
+Then Jeffrey will share what it takes to ship an MCP server.
 
-Phil will cover what you might not know about stateless MCP.
+Zach will introduce the thousand-times junior developer.
 
-And James will show a workflow from ideation to presentation using Markdown, Slidev, and agents.
+And Chris will ask: are we at AGI yet?
 
 The goal is to finish here between 8 and 8:30, then head to our after-event community social.
 -->
@@ -338,10 +357,10 @@ The following slides are the outro section.
 # Thank you to our speakers
 
 <div class="speaker-thanks">
-  <div><strong>Dan Harper</strong><span>AskYourTeam</span></div>
-  <div><strong>Thiago Shimada Ramos</strong><span>EnclaveAI Studio</span></div>
-  <div><strong>Phil Nash</strong><span>Resend</span></div>
-  <div><strong>James Bannan</strong><span>Microsoft</span></div>
+  <div><strong>Lifei Zhou</strong><span>Block</span></div>
+  <div><strong>Jeffrey Aven</strong><span>StackQL</span></div>
+  <div><strong>Zach Jensz</strong><span>Method Recruitment Group</span></div>
+  <div><strong>Chris Rickard</strong><span>Userdoc</span></div>
 </div>
 
 <div class="applause">One more round of applause.</div>
@@ -349,7 +368,7 @@ The following slides are the outro section.
 <!--
 What a fantastic set of talks.
 
-Please join me in thanking Dan, Thiago, Phil, and James — for the preparation, the candour, and the ideas they shared with us tonight.
+Please join me in thanking Lifei, Jeffrey, Zach, and Chris — for the preparation, the candour, and the ideas they shared with us tonight.
 
 Speaking takes work. Sharing unfinished lessons and real failures takes courage. The quality of this community depends on people being willing to do both.
 
@@ -404,44 +423,65 @@ So please scan the QR code to submit to our call for papers. If you're unsure wh
 
 <div class="qr-layout">
   <div>
-    <div class="statement">Registrations are now open.</div>
-    <p style="font-size: 1.2em;">Thursday 1st October 2026</p>
-    <a style="font-size: 1.1em;" href="https://luma.com/ioxvp4zf">luma.com/ioxvp4zf</a>
+    <div class="statement">Save the date.</div>
+    <p style="font-size: 1.2em;">Thursday 5 November 2026</p>
+    <p style="font-size: 1em;">Registrations opening soon.</p>
+    <a style="font-size: 1.1em;" href="https://luma.com/7qtmasup">luma.com/7qtmasup</a>
     <p style="font-size: 1em;">Follow the Melbourne community Luma page<br />to be notified of all future events.</p>
     <a style="font-size: 1em;" href="https://aimelb.org">aimelb.org</a>
   </div>
-  <ProjectQr value="https://luma.com/ioxvp4zf" :size="260" />
+  <ProjectQr value="https://luma.com/7qtmasup" :size="260" />
 </div>
 
 <!--
-Registrations are now open for next month's event: Agentic AI Melbourne in October.
+Our next Agentic AI Melbourne event will be on Thursday, the fifth of November.
 
-Talks and the CBD venue will be announced soon.
+The event page is live, but registrations are not open yet.
 
-Scan this QR code to open the event page and request to join.
+Scan this QR code to open the event page, and follow the Melbourne community Luma page to be notified when registrations open.
+-->
 
-Capacity is limited and registrations are reviewed, so apply early and tell us what you're building.
+---
+class: devfest-promo-slide
+---
 
-Also just to clarify on those RSVPs, when you tell us what you're building, if you can link to your projects, it's going to go a long way with the review of your registration.
+<img class="devfest-promo" src="./Devfest Promo Slide.svg" alt="DevFest Melbourne promotion" />
 
-You can also follow the Melbourne community Luma page at aimelb.org to be notified of all future events.
+<!--
+Reference presentation:
+https://docs.google.com/presentation/d/1DvzC3XiURw7GyX3yE77JE6AeSP1bQEhdCHT2iAstLvc/edit?usp=sharing
 -->
 
 ---
 
-# Thank you to our sponsor
+# Thank you to our sponsors
 
-<div class="sponsor-stage outro-sponsor">
-  <img src="/sponsors/vivanti.png" alt="Vivanti" />
-  <p>Space to meet. Support to learn. A home for tonight.</p>
+<div class="sponsor-grid outro-sponsors">
+  <div class="sponsor-group venue-sponsors">
+    <span class="sponsor-label">Venue</span>
+    <div class="sponsor-list">
+      <div class="sponsor-logo"><img src="/sponsors/bluerock.svg" alt="BlueRock" /></div>
+      <div class="sponsor-logo"><img src="/sponsors/ai-dojo.png" alt="AI Dojo" /></div>
+    </div>
+  </div>
+  <div class="sponsor-group hospitality-sponsors">
+    <span class="sponsor-label">Food & drinks</span>
+    <div class="sponsor-list">
+      <div class="sponsor-logo"><img src="/sponsors/openai.svg" alt="OpenAI" /></div>
+      <div class="sponsor-logo"><img src="/sponsors/optimising.svg" alt="Optimising.com.au" /></div>
+      <div class="sponsor-logo"><img src="/sponsors/union-ai.svg" alt="Union.ai" /></div>
+    </div>
+  </div>
 </div>
 
+<p class="sponsor-thanks">Space to meet. Support to learn. A community brought together.</p>
+
 <!--
-Before we wrap up, one more thank you to Vivanti Consulting.
+Before we wrap up, one more thank you to our sponsors.
 
-Thank you for opening your space to us, for supporting the event, and for making a room like this possible.
+Thank you to BlueRock and AI Dojo for the venue, and to OpenAI, Optimising.com.au, and Union.ai for the food and drinks.
 
-Please help us leave the venue as we found it, and take a moment to thank the Vivanti team if you see them tonight.
+Please help us leave the venue as we found it, and take a moment to thank our sponsors if you see them tonight.
 -->
 
 ---

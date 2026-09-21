@@ -457,30 +457,64 @@
   font-size: 0.82rem;
 }
 
-.sponsor-stage {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  height: 68%;
-  justify-content: center;
-  padding-top: 2rem;
+.sponsor-grid {
+  display: grid;
+  gap: 1.2rem;
+  grid-template-columns: 0.82fr 1.18fr;
+  margin-top: 2.4rem;
 }
 
-.sponsor-stage img {
-  height: auto;
-  width: 26rem;
+.sponsor-group {
+  border: 1px solid var(--line);
+  border-radius: 1.15rem;
+  min-height: 17rem;
+  padding: 1.45rem;
 }
 
-.sponsor-stage p {
-  color: var(--muted);
-  font-size: 1rem;
-  margin-top: 1.6rem;
-}
+.venue-sponsors { background: #eef7f8; }
+.hospitality-sponsors { background: linear-gradient(145deg, #f2f4fb, #f8eff8); }
 
-.handoff {
+.sponsor-label {
   color: var(--aaif-blue);
-  font-size: 0.9rem;
-  font-weight: 750;
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.hospitality-sponsors .sponsor-label { color: var(--aaif-purple); }
+
+.sponsor-list {
+  display: grid;
+  gap: 0.7rem;
+  margin-top: 1.3rem;
+}
+
+.sponsor-logo {
+  align-items: center;
+  background: rgb(255 255 255 / 78%);
+  border-radius: 0.75rem;
+  display: flex;
+  justify-content: center;
+  min-height: 3.35rem;
+  padding: 0.65rem 0.9rem;
+}
+
+.sponsor-logo img {
+  display: block;
+  max-height: 2rem;
+  max-width: 100%;
+  object-fit: contain;
+  width: auto;
+}
+
+.sponsor-logo img[alt='OpenAI'] { transform: scale(2.75); }
+
+.sponsor-thanks {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 1.3rem;
   text-align: center;
 }
 
@@ -605,7 +639,24 @@
   padding: 0;
 }
 
-.outro-sponsor { height: 78%; }
+.outro-sponsors { margin-top: 1.8rem; }
+
+.outro-sponsors .sponsor-group {
+  min-height: 16rem;
+}
+
+.devfest-promo-slide {
+  background: #000;
+  overflow: hidden;
+  padding: 0 !important;
+}
+
+.devfest-promo {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
 
 .social-callout {
   align-items: stretch;
