@@ -383,9 +383,9 @@ Let's give all four speakers one more round of applause.
   <div>
     <div class="statement">Help us make the next event better.</div>
     <p>Just 5 short questions.<br />It should take one minute.</p>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScvHpNuDkmmrnTYqIHZ_-wUaWOmE3xNDmZ45ZN-hGyj7DJs_w/viewform?usp=dialog">Open the feedback form →</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSjSNhv-9zEwy3k4kmUU8PQwwC7LGt0Rt8depY7knPOWvGwg/viewform?usp=publish-editor">Open the feedback form →</a>
   </div>
-  <ProjectQr value="https://docs.google.com/forms/d/e/1FAIpQLScvHpNuDkmmrnTYqIHZ_-wUaWOmE3xNDmZ45ZN-hGyj7DJs_w/viewform?usp=dialog" :size="260" />
+  <ProjectQr value="https://docs.google.com/forms/d/e/1FAIpQLSfSjSNhv-9zEwy3k4kmUU8PQwwC7LGt0Rt8depY7knPOWvGwg/viewform?usp=publish-editor" :size="260" />
 </div>
 
 <!--
