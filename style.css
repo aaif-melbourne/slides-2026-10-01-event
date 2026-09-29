@@ -588,6 +588,22 @@
 
 .blank-slide { background: #fff; }
 
+.bluerock-sponsor-slide {
+  background: rgb(75 98 234);
+  height: 100%;
+  overflow: hidden;
+  padding: 0 !important;
+}
+
+.bluerock-sponsor {
+  display: block;
+  height: calc(100% + 2px);
+  margin: -1px;
+  max-width: none;
+  object-fit: cover;
+  width: calc(100% + 2px);
+}
+
 .speaker-thanks {
   display: grid;
   gap: 1rem;

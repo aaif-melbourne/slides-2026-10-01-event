@@ -290,13 +290,13 @@ One ask for everyone: please be respectful of the venue and clean up after yours
 -->
 
 ---
-class: blank-slide
+class: bluerock-sponsor-slide
 ---
 
-<!--
-BLUEROCK SLIDE HERE
+<img class="bluerock-sponsor" src="/sponsors/bluerock-digital.png" alt="BlueRock Digital services and Stevie the Site Agent" />
 
-TODO: Replace this blank placeholder with BlueRock's supplied slide.
+<!--
+BlueRock sponsor slide.
 -->
 
 ---
