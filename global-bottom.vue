@@ -1,6 +1,6 @@
 <template>
   <footer
-    v-if="![7, 9, 14, $slidev.nav.total].includes($slidev.nav.currentPage)"
+    v-if="![8, 10, 16, 17, $slidev.nav.total].includes($slidev.nav.currentPage)"
     class="common-footer"
   >
     <span>

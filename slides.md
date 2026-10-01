@@ -11,6 +11,43 @@ transition: slide-left
 mdc: true
 ---
 
+# Win a conference ticket
+
+<div class="ticket-giveaway-rows">
+  <div class="ticket-giveaway-row ticket-giveaway-row--containerdays">
+    <a class="ticket-row-qr" href="https://forms.gle/CXgHuMbk7z4v6sRx5">
+      <ProjectQr value="https://forms.gle/CXgHuMbk7z4v6sRx5" :size="120" background="transparent" />
+    </a>
+    <div class="ticket-row-art">
+      <img src="/conferences/containerdays-singapore.png" alt="ContainerDays Singapore, 27–28 October 2026" />
+    </div>
+    <div class="ticket-row-details">
+      <strong>Tue 27th & Wed 28th October 2026</strong>
+      <span>Suntec Singapore Convention & Exhibition Centre, Singapore</span>
+      <a class="ticket-row-form" href="https://forms.gle/CXgHuMbk7z4v6sRx5" target="_blank">forms.gle/CXgHuMbk7z4v6sRx5</a>
+    </div>
+  </div>
+  <div class="ticket-giveaway-row ticket-giveaway-row--devfest">
+    <div class="ticket-row-details">
+      <strong>Saturday 3rd October, 2026</strong>
+      <span>William Angliss Institute, 555 La Trobe Street, Melbourne</span>
+      <a class="ticket-row-form" href="https://forms.gle/fTVpVjsWs8s96TQNA" target="_blank">forms.gle/fTVpVjsWs8s96TQNA</a>
+    </div>
+    <div class="ticket-row-art">
+      <img src="/conferences/gdg-melbourne-devfest.png" alt="GDG Melbourne DevFest" />
+    </div>
+    <a class="ticket-row-qr" href="https://forms.gle/fTVpVjsWs8s96TQNA">
+      <ProjectQr value="https://forms.gle/fTVpVjsWs8s96TQNA" :size="120" background="transparent" />
+    </a>
+  </div>
+</div>
+
+<!--
+Scan the QR code for the conference you'd like to attend and complete the form for your chance to win a ticket.
+-->
+
+---
+
 <div class="hero hero-with-image">
   <div class="eyebrow">Agentic AI Melbourne · October 2026</div>
   <h1 style="padding-top: 4rem">G'Day</h1>
@@ -439,6 +476,63 @@ Our next Agentic AI Melbourne event will be on Thursday, the fifth of November.
 The event page is live, but registrations are not open yet.
 
 Scan this QR code to open the event page, and follow the Melbourne community Luma page to be notified when registrations open.
+-->
+
+---
+
+# Win a conference ticket
+
+<div class="ticket-giveaway-rows">
+  <div class="ticket-giveaway-row ticket-giveaway-row--containerdays">
+    <a class="ticket-row-qr" href="https://forms.gle/CXgHuMbk7z4v6sRx5">
+      <ProjectQr value="https://forms.gle/CXgHuMbk7z4v6sRx5" :size="120" background="transparent" />
+    </a>
+    <div class="ticket-row-art">
+      <img src="/conferences/containerdays-singapore.png" alt="ContainerDays Singapore, 27–28 October 2026" />
+    </div>
+    <div class="ticket-row-details">
+      <strong>Tue 27th & Wed 28th October 2026</strong>
+      <span>Suntec Singapore Convention & Exhibition Centre, Singapore</span>
+      <a class="ticket-row-form" href="https://forms.gle/CXgHuMbk7z4v6sRx5" target="_blank">forms.gle/CXgHuMbk7z4v6sRx5</a>
+    </div>
+  </div>
+  <div class="ticket-giveaway-row ticket-giveaway-row--devfest">
+    <div class="ticket-row-details">
+      <strong>Saturday 3rd October, 2026</strong>
+      <span>William Angliss Institute, 555 La Trobe Street, Melbourne</span>
+      <a class="ticket-row-form" href="https://forms.gle/fTVpVjsWs8s96TQNA" target="_blank">forms.gle/fTVpVjsWs8s96TQNA</a>
+    </div>
+    <div class="ticket-row-art">
+      <img src="/conferences/gdg-melbourne-devfest.png" alt="GDG Melbourne DevFest" />
+    </div>
+    <a class="ticket-row-qr" href="https://forms.gle/fTVpVjsWs8s96TQNA">
+      <ProjectQr value="https://forms.gle/fTVpVjsWs8s96TQNA" :size="120" background="transparent" />
+    </a>
+  </div>
+</div>
+
+<!--
+Scan the QR code for the conference you'd like to attend and complete the form for your chance to win a ticket.
+-->
+
+---
+class: containerdays-ticket-slide
+---
+
+<div class="containerdays-ticket">
+  <div class="containerdays-ticket-art">
+    <img src="/conferences/containerdays-program.png" alt="ContainerDays Singapore, 27–28 October 2026 conference topics" />
+  </div>
+  <div class="containerdays-ticket-action">
+    <a class="containerdays-qr-link" href="https://www.containerdays.io/containerdays-singapore-2026/">
+      <ProjectQr value="https://www.containerdays.io/containerdays-singapore-2026/" :size="300" />
+    </a>
+    <a class="containerdays-ticket-cta" href="https://www.containerdays.io/containerdays-singapore-2026/">Tickets On Sale Now</a>
+  </div>
+</div>
+
+<!--
+ContainerDays Singapore tickets are on sale now. Scan the QR code to learn more and book your ticket.
 -->
 
 ---
