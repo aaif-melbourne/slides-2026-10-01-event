@@ -317,8 +317,8 @@ BlueRock sponsor slide.
     <span class="agenda-kind">Lightning<br />Talk</span><strong>The 1000x Junior Developer</strong><span>Zach Jensz · Software Engineer, Method Recruitment Group</span>
   </div>
   <div class="agenda-item">
-    <img class="agenda-speaker" src="/speakers/chris-rickard.jpeg" alt="Chris Rickard" />
-    <span class="agenda-kind">Lightning<br />Talk</span><strong>Are we at AGI yet?</strong><span>Chris Rickard · Founder, Userdoc</span>
+    <img class="agenda-speaker" src="/organisers/rob-kenefeck.png" alt="Rob Kenefeck" />
+    <span class="agenda-kind">Lightning<br />Talk</span><strong>Why Agents Need An Identity</strong><span>Rob Kenefeck · Field CTO, ControlPlane</span>
   </div>
 </div>
 
@@ -335,7 +335,7 @@ Then Jeffrey will share what it takes to ship an MCP server.
 
 Zach will introduce the thousand-times junior developer.
 
-And Chris will ask: are we at AGI yet?
+And Rob will explain why agents need an identity.
 
 The goal is to finish here between 8 and 8:30, then head to our after-event community social.
 -->
@@ -360,7 +360,7 @@ The following slides are the outro section.
   <div><strong>Lifei Zhou</strong><span>Block</span></div>
   <div><strong>Jeffrey Aven</strong><span>StackQL</span></div>
   <div><strong>Zach Jensz</strong><span>Method Recruitment Group</span></div>
-  <div><strong>Chris Rickard</strong><span>Userdoc</span></div>
+  <div><strong>Rob Kenefeck</strong><span>ControlPlane</span></div>
 </div>
 
 <div class="applause">One more round of applause.</div>
@@ -368,7 +368,7 @@ The following slides are the outro section.
 <!--
 What a fantastic set of talks.
 
-Please join me in thanking Lifei, Jeffrey, Zach, and Chris — for the preparation, the candour, and the ideas they shared with us tonight.
+Please join me in thanking Lifei, Jeffrey, Zach, and Rob — for the preparation, the candour, and the ideas they shared with us tonight.
 
 Speaking takes work. Sharing unfinished lessons and real failures takes courage. The quality of this community depends on people being willing to do both.
 
